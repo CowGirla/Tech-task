@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/TechTask/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/TechTask/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"D:/TechTask/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/AD/W4OEAJDFWVR2QSLFL2URHP.uasset",
+				"D:/TechTask/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/4F/Q919II7BR07JSZ6L1F65EO.uasset",
+				"D:/TechTask/Content/TechTask/BP_Cube.uasset",
+				"D:/TechTask/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/TI/2RSWXKVUM7SBU6E4FV21M7.uasset",
+				"D:/Epic Games/UE_5.2/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
+				"D:/TechTask/Content/TechTask/M_Cube.uasset",
+				"D:/TechTask/Content/TechTask/BP_Sphere.uasset",
+				"D:/TechTask/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset",
+				"D:/TechTask/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset",
+				"D:/TechTask/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset"
+			]
+		}
+	]
+}
